@@ -12,12 +12,12 @@ Publications
 ============
 <table width="900" align="center" border="0" cellspacing="0" cellpadding="0">
             <tr>
-                <td style="width:35%; vertical-align:middle; padding-right: 20px;">
+                <td style="width:30%; vertical-align:middle; padding-right: 20px;">
                     <div class="image-container">
                         <img src="images/3953273590_704e3899d5_m.jpg" width="80%">
                     </div>
                 </td>
-                <td style="width:65%; vertical-align:middle">
+                <td style="width:70%; vertical-align:middle">
                     <papertext>
                         <papertitle>Toward sleep apnea detection with lightweight multi-scaled fusion network</papertitle>
                         <br>
