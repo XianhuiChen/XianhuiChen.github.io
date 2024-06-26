@@ -17,7 +17,7 @@ Publications
             <tr>
                 <td style="width:35%; vertical-align:middle; padding-right: 20px;">
                     <div class="image-container">
-                        <img src="images/3953273590_704e3899d5_m.jpg" width="100%">
+                        <img src="images/3953273590_704e3899d5_m.jpg" width="80%">
                     </div>
                 </td>
                 <td style="width:65%; vertical-align:middle">
