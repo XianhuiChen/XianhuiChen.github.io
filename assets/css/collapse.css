@@ -52,7 +52,7 @@ author{
   font-family: 'Lato', Arial, sans-serif;
   font-size: 16px;
   color: #777777;
-  line-height: 1;
+  line-height: 1.1;
 }
 
 a{
@@ -62,7 +62,7 @@ a{
 
 strong {
   font-family: 'Lato', Arial, sans-serif;
-  font-size: 17px;
+  font-size: 16px;
   color: #333333;
 }
 
