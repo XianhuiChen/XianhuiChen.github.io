@@ -88,6 +88,10 @@ name {
   line-height: 1.8;
 }
 
+.image-container {
+  text-align: center; 
+}
+
 .one {
   width: 160px;
   height: 160px;
