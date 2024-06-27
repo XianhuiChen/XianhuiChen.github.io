@@ -17,7 +17,7 @@ Publications
             <tr>
                 <td style="width:30%; vertical-align:middle; padding-right: 20px;">
                     <div class="image-container">
-                        <img src="/_publications/KBS22.jpg" width="80%">
+                        <img src="/images/KBS22.jpg" width="1%">
                     </div>
                 </td>
                 <td style="width:70%; vertical-align:middle">
