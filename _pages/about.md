@@ -12,7 +12,7 @@ I am a first-year Ph.D. student in Computer Science and Engineering at The Ohio 
 
 Publications
 ============
-<table width="900" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="800" align="center" border="0" cellspacing="0" cellpadding="0">
             <tr>
                 <td style="width:30%; vertical-align:middle; padding-right: 20px;">
                     <div class="image-container">
