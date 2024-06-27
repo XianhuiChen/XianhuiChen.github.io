@@ -16,12 +16,12 @@ Publications
             <tr>
                 <td style="width:30%; vertical-align:middle; padding-right: 20px;">
                     <div class="image-container">
-                       <img src="/images/KBS22.jpg" width="60%"> 
+                       <img src="/images/KBS22.jpg" width="100%"> 
                     </div>
                 </td>
                 <td style="width:70%; vertical-align:middle">
                     <papertext>
-                        <papertitle>Toward sleep apnea detection with lightweight multi-scaled fusion network</papertitle>
+                        <papertitle> <strong>Toward sleep apnea detection with lightweight multi-scaled fusion network</strong></papertitle>
                         <br>
                     <strong>Xianhui Chen</strong>,
                     Ying Chen, Wenjun Ma, Xiaomao Fan, Ye Li
