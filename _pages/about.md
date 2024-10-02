@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: 'About'
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-### About
-*********
 I am a first-year Ph.D. student in Computer Science and Engineering at The Ohio State University (OSU). I am extremely fortunate to be advised by [Prof. Ping Zhang](https://www.pingzhang.net/) in the AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in AI for healthcare, with the overarching goal of improving patient outcomes through advanced diagnostic tools and efficient healthcare delivery systems. My current research focuses on time series analysis in healthcare.
 
 
