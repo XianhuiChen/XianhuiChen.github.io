@@ -16,6 +16,28 @@
   }
 }
 
+
+#main {
+  width: 100%;
+  max-width: 100%;
+  margin-top: 2em;
+  padding: 0 1em;
+  animation: intro 0.3s both;
+  animation-delay: 0.35s;
+}
+
+.page {
+  width: 100%;
+  padding: 0;
+}
+
+.page__content, .page__inner-wrap {
+  width: 100%;
+  max-width: 100%;
+  padding: 0;
+}
+
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
