@@ -15,7 +15,12 @@
     display: none;
     padding : 5px;
 }
-
+.about-section {
+  max-width: 800px;      // Limit the width for readability
+  margin: 0 auto;        // Center the section
+  padding: 20px 15px;    // Add padding for spacing
+  text-align: center;    // Center-align the text
+}
 a {
   color: #196CD1;
   text-decoration: none;
