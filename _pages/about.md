@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ### About
-<table width="800" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="700" align="center" border="0" cellspacing="0" cellpadding="0">
       <tr>
           <td style="width:100%; vertical-align:middle">
               I am a first-year Ph.D. student in Computer Science and Engineering at The Ohio State University (OSU). I am extremely fortunate to be advised by <a href="https://www.pingzhang.net/">Prof. Ping Zhang</a> in the AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in AI for healthcare, with the overarching goal of improving patient outcomes through advanced diagnostic tools and efficient healthcare delivery systems. My current research focuses on time series analysis in healthcare.
@@ -17,7 +17,7 @@ redirect_from:
 
 ### Publications
 
-<table width="800" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="700" align="center" border="0" cellspacing="0" cellpadding="0">
       <tr>
           <td style="width:35%; vertical-align:middle; padding-right: 20px;">
               <div class="image-container">
@@ -39,7 +39,7 @@ redirect_from:
       </tr>
 </table>
 <br>
-<table width="800" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="700" align="center" border="0" cellspacing="0" cellpadding="0">
       <tr>
           <td style="width:35%; vertical-align:middle; padding-right: 20px;">
               <div class="image-container">
@@ -61,7 +61,7 @@ redirect_from:
       </tr>
 </table>
 <br>
-<table width="800" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="700" align="center" border="0" cellspacing="0" cellpadding="0">
       <tr>
           <td style="width:35%; vertical-align:middle; padding-right: 20px;">
               <div class="image-container">
