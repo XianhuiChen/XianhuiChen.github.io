@@ -17,7 +17,7 @@ redirect_from:
 
 ### Publications
 
-<table width="700" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="750" align="center" border="0" cellspacing="0" cellpadding="0">
       <tr>
           <td style="width:35%; vertical-align:middle; padding-right: 20px;">
               <div class="image-container">
@@ -39,7 +39,7 @@ redirect_from:
       </tr>
 </table>
 <br>
-<table width="700" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="750" align="center" border="0" cellspacing="0" cellpadding="0">
       <tr>
           <td style="width:35%; vertical-align:middle; padding-right: 20px;">
               <div class="image-container">
@@ -61,7 +61,7 @@ redirect_from:
       </tr>
 </table>
 <br>
-<table width="700" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="750" align="center" border="0" cellspacing="0" cellpadding="0">
       <tr>
           <td style="width:35%; vertical-align:middle; padding-right: 20px;">
               <div class="image-container">
@@ -75,7 +75,7 @@ redirect_from:
               <strong>Xianhui Chen*</strong>,
               Ying Chen*, Wenjun Ma, Xiaomao Fan, Ye Li
               <br>
-              IEEE BIBM, 2021
+              International Conference on Bioinformatics and Biomedicine (BIBM), 2021
               <br>
               <a href="https://doi.org/10.1109/BIBM52615.2021.9669358">[paper]</a>
               </papertext>
